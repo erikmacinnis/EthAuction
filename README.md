@@ -1,0 +1,2 @@
+# EthAuction
+Simple auction contract
